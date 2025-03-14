@@ -8,3 +8,9 @@
 - 🚀 Runs out of the box, no setup required
 
 ---
+
+## Usage
+
+```bash
+cargo run -- <path_a> <path_b>
+```
